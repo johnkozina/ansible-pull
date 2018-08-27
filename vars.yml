@@ -1,0 +1,4 @@
+# vars.yml
+admin_username: "admin"
+admin_password: "admin"
+mgmt_ip: "10.52.247.240"
