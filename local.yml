@@ -39,7 +39,7 @@
         destination_zone: ['web']
         source_ip: ['any']
         source_user: ['any']
-        destination_ip: ['1.1.1.1']
+        destination_ip: ['2.2.2.2']
         category: ['any']
         application: ['ssh']
         service: ['application-default']
