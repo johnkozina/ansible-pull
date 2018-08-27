@@ -17,8 +17,8 @@
 # EXECUTE
 # ansible-playbook playbook_set_srule.yml
 ---
-- hosts: localhost
-  connection: local
+- hosts: fwtest
+  connection: ssh
 
   roles:
     - role: PaloAltoNetworks.paloaltonetworks
